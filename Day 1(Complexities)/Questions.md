@@ -1,6 +1,6 @@
 ### Questions of Time Complexity
 
-# 1. 
+# 1. one 
 def fun(n,m):
     for i in range(n):
        print(i)
@@ -9,7 +9,7 @@ def fun(n,m):
 - Answer : O(n+m)
 
 
-# 2. 
+# 2. two
 import random
 def fun(N):
     counter=0
@@ -19,7 +19,7 @@ def fun(N):
 - Answer : O(N)
 
 
-# 3. 
+# 3. three
 def fun(N,M):
     arr=[]
     counter=0
@@ -31,7 +31,7 @@ def fun(N,M):
 - Answer : O(n+m)
 
 
-# 4. 
+# 4. four
 def function(N,M):
     counter=0
     for i in range(N):
@@ -41,7 +41,7 @@ def function(N,M):
 - Answer : O(n x m)
 
 
-# 5. 
+# 5. five
 def fun(n):
     for i in range(n):
         print(pow(i,n))

@@ -6,6 +6,8 @@
     for i in range(m):
         print(i)
 - Answer : O(n+m)
+
+
 2. import random
 def fun(N):
     counter=0
@@ -13,6 +15,8 @@ def fun(N):
         counter+=random.randint(1,100)
     print(counter)
 - Answer : O(N)
+
+
 3. def fun(N,M):
     arr=[]
     counter=0
@@ -22,6 +26,8 @@ def fun(N):
         counter+=1
     print(counter)
 - Answer : O(n+m)
+
+
 4. def function(N,M):
     counter=0
     for i in range(N):
@@ -29,6 +35,8 @@ def fun(N):
             counter+=1
     print(counter)
 - Answer : O(n x m)
+
+
 5. def fun(n):
     for i in range(n):
         print(pow(i,n))

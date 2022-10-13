@@ -1,1 +1,1 @@
-### 100 Days of Data Structures and Algorithms
+# 100 Days of Data Structures and Algorithms

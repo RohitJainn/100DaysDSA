@@ -8,7 +8,7 @@ For making better programs and compare algorithms.
 - Big O Notation -> Upper Bound
 - Theta -> Avg Case Complexity 
 - Omega -> Lower Bound
-
+## Time Complexities
 - Constant time = O(1)
 - Linear time = O(N)
 - Logarithmic time = O(Log N)

@@ -5,9 +5,9 @@
 Amount of time taken by an algorithm to run as a function of the length of the input
 For making better programs and compare algorithms.
 
-Big O Notation -> Upper Bound
-Theta -> Avg Case Complexity 
-Omega -> Lower Bound
+- Big O Notation -> Upper Bound
+- Theta -> Avg Case Complexity 
+- Omega -> Lower Bound
 
 - Constant time = O(1)
 - Linear time = O(N)

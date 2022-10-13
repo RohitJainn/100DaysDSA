@@ -47,3 +47,12 @@
         print(pow(i,n))
 - Answer : O(n x log n )
   
+### 6.
+    def fun(n,m):
+    arr=[[0]*m for i in range(n)]
+    for i in range(n):
+        for j in range(m):
+            k=1
+            while k<n*m:
+                k*=2
+ - Answer : O(n*m x log n*m)

@@ -55,4 +55,4 @@
             k=1
             while k<n*m:
                 k*=2
- - Answer : O(n*m x log n*m)
+ - Answer : O((n x m) x (log(n x m)))

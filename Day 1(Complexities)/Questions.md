@@ -1,10 +1,10 @@
 ### Questions of Time Complexity
 
-1. def fun(n,m):
-    for i in range(n):
-        print(i)
-    for i in range(m):
-        print(i)
+1. - def fun(n,m):
+    - for i in range(n):
+       - print(i)
+    - for i in range(m):
+        - print(i)
 - Answer : O(n+m)
 
 

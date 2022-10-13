@@ -1,7 +1,8 @@
 ### Day 1
 # Time and Space complexity
 
-# Time complexity : Amount of time taken by an algorithm to run as a function of the length of the input
+# Time complexity : 
+Amount of time taken by an algorithm to run as a function of the length of the input
 For making better programs and compare algorithms.
 
 Big O Notation -> Upper Bound
@@ -24,4 +25,5 @@ Omega -> Lower Bound
 - O(2^N)
 - O(N!)
 
-# Space Complexity : Amount of space taken by an algorithm to run as a function of the length of the input
+# Space Complexity : 
+Amount of space taken by an algorithm to run as a function of the length of the input

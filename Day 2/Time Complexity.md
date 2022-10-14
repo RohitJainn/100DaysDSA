@@ -21,5 +21,4 @@
         }
     }
 - Time complexity = O(sqrt(n))
-//if k is the total number of iterations taken,then the while loop terminates if
-//1+2+3+...+k = [k(k+1)/2] > n. So k = O(sqrt(n))
+### if k is the total number of iterations taken,then the while loop terminates if 1+2+3+...+k = [k(k+1)/2] > n. So k = O(sqrt(n))

@@ -6,7 +6,7 @@
     for(i=0 to i^2 <= n){
         print("a")
     i++
+        }
     }
-}
 
 - Time Complexity = O(sqrt(n))
